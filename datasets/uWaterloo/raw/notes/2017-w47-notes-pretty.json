@@ -1,0 +1,72 @@
+{
+    "meta": {
+        "requests": 954,
+        "timestamp": 1521842548,
+        "status": 200,
+        "message": "Request successful",
+        "method_id": 1297,
+        "method": {}
+    },
+    "data": [
+        {
+            "date": "2017-11-20",
+            "outlet_name": "REVelation",
+            "outlet_id": 7,
+            "note": null
+        },
+        {
+            "date": "2017-11-20",
+            "outlet_name": "The Market at UWP",
+            "outlet_id": 29,
+            "note": "Carving Station - Rosemary Roast Chicken"
+        },
+        {
+            "date": "2017-11-21",
+            "outlet_name": "REVelation",
+            "outlet_id": 7,
+            "note": null
+        },
+        {
+            "date": "2017-11-21",
+            "outlet_name": "The Market at UWP",
+            "outlet_id": 29,
+            "note": "Carving Station - Coffee Rubbed Roast Beef with Bourbon Sauce"
+        },
+        {
+            "date": "2017-11-22",
+            "outlet_name": "REVelation",
+            "outlet_id": 7,
+            "note": null
+        },
+        {
+            "date": "2017-11-22",
+            "outlet_name": "The Market at UWP",
+            "outlet_id": 29,
+            "note": "Carving Station - Ancho Maple Glazed Turkey Breast"
+        },
+        {
+            "date": "2017-11-23",
+            "outlet_name": "REVelation",
+            "outlet_id": 7,
+            "note": null
+        },
+        {
+            "date": "2017-11-23",
+            "outlet_name": "The Market at UWP",
+            "outlet_id": 29,
+            "note": "Carving Station - Steak Night"
+        },
+        {
+            "date": "2017-11-24",
+            "outlet_name": "REVelation",
+            "outlet_id": 7,
+            "note": null
+        },
+        {
+            "date": "2017-11-24",
+            "outlet_name": "The Market at UWP",
+            "outlet_id": 29,
+            "note": "Carving Station - Smoked Roast Chicken w/ Peach BBQ Sauce"
+        }
+    ]
+}
