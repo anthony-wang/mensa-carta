@@ -22,6 +22,7 @@ week_end = int(input("Enter ending week: "))
 for year in range(year_start, year_end + 1):
     for week in range(week_start, week_end + 1):
         filename = "{year}-w{week}-notes.json".format(year=year, week=week)
-        url = "https://api.uwaterloo.ca/v2/foodservices/{year}/{week}/notes.json?key={api_key}".format(year=year, week=week, api_key = UW_API_KEY)
+        urlbase = "https://api.uwaterloo.ca/v2/foodservices/{year}/{week}/notes.json?key={api_key}"
+        url = urlbase.format(year=year, week=week, api_key = UW_API_KEY)
         print("Downloading file: ", filename)
         download(url, filename)
